@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hello! 👋
+My GitHub looks quite empty, but I'm trying to work on it.
 
-<!--
-**axcer2126/axcer2126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About me
+- 📍  Incheon, Korea
+- 🤩  FullStack Wannabe
+- 🌈  Positive and Open-minded
+- 🔤  Fluent in English
+- 🗣  Love to talk to people
 
-Here are some ideas to get you started:
+## 💁‍♂️ What I can do: ...
+- Java, Spring, Python
+- Vue.js
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤟 I'm currently working on ...
+more java, more Spring, and React
+
+## 💬  Ask me about: ...
+Anything you need!
+
+## ✉️ How to reach me: ...
+axcer2126@gmail.com
+
+## 💻 My GitHub Stats
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=axcer2126&&show_icons=true&title_color=ffffff&icon_color=0088ff&text_color=edfffb&bg_color=000000">
